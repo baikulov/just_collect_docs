@@ -1,6 +1,6 @@
 ---
 draft: false
-date: 2023-12-29
+date: 2024-01-01
 slug: how-to-connect-google-analytics
 categories:
   - how-to
