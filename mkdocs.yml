@@ -1,6 +1,6 @@
 # docs - https://squidfunk.github.io/mkdocs-material/
 # docs - https://www.mkdocs.org/
-site_name: Just-collect - документация и статьи
+site_name: Just-collect - documentation
 site_url: http://docs.just-collect.ru
 
 theme:
